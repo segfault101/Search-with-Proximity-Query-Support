@@ -109,7 +109,10 @@ public class InvertedIndex_With_ProximitySearchSupport {
 		/*
 		 * STEP 5: PRINT THE RESULT
 		 */
-		
+		 for(int c = 0; c <result.size(); c++)
+		 {
+			 System.out.println(result.get(c).get(0) + ": " + result.get(c).get(1) + ", " + result.get(c).get(2));
+		 }
 		return;
 	}
 
