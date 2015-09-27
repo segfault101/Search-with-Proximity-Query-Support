@@ -1,0 +1,20 @@
+Doc1 	by william shakespeare
+Doc2 	dramatis personae
+Doc3   	chorus
+Doc4   	escalus prince of verona
+Doc5   	paris a young count kinsman to the prince
+Doc6   	montague heads of two houses at variance with each other
+Doc7   	capulet heads of two houses at variance with each other
+Doc8   	an old man of the capulet family
+Doc9   	romeo son to montague
+Doc10   tybalt nephew to lady capulet
+Doc11   mercutio kinsman to the prince and friend to a romeo
+Doc12   benvolio nephew to montague and friend to an other romeo
+Doc13   tybalt nephew to lady capulet
+Doc14   friar laurence franciscan
+Doc15   friar john franciscan
+Doc16   balthasar servant to romeo
+Doc17   abram servant to montague
+Doc18   sampson servant to capulet
+Doc19   gregory servant to capulet
+Doc20   peter servant to juliets nurse
